@@ -17,11 +17,11 @@ Highlights
 
 Installation
 ------------
-#. Get the source code for this plugin from github at https://github.com/MichaelApproved/Question2Answer-Cache-Plug-In
-#. Put the files in your plugin directory under the folder named '**ma-cache-this**'
-#. Go to your site's **Admin -> Plugins** page on your q2a install and select the '**Enable Cache This**' option then '**Save**'.
+1. Get the source code for this plugin from github at https://github.com/MichaelApproved/Question2Answer-Cache-Plug-In
+2. Put the files in your plugin directory under the folder named '**ma-cache-this**'
+3. Go to your site's **Admin -> Plugins** page on your q2a install and select the '**Enable Cache This**' option then '**Save**'.
 
-.. _project page: https://github.com/MichaelApproved/Question2Answer-Cache-Plug-In
+Project page: https://github.com/MichaelApproved/Question2Answer-Cache-Plug-In
 
 Disclaimer
 ----------
@@ -29,5 +29,4 @@ This is **beta** code.  It is probably okay for production environments, but may
 
 About Q2A
 ---------
-Question2Answer is a free PHP open source platform for Q&A sites.  http://www.question2answer.org/
-
+[Question2Answer](http://www.question2answer.org/ "http://www.question2answer.org/") is a free PHP open source platform for Q&A sites. 
